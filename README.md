@@ -1,9 +1,7 @@
 # ttss
---------------------------------------
--- Twinkle, Twinkle Smartphone Star --
--- Team: Antonio D. de Carvalho J.  --
---       Zachary Boulanger          --
---------------------------------------
+Twinkle, Twinkle Smartphone Star
+Team: Antonio D. de Carvalho J. and Zachary Boulanger
+
 
 This performance was conceived in a partnership with Zachary Boulanger and the concept is related to playing with the idea of expectations. 
 The master performer would be a composer using the master application with an 8-key keyboard that was configured to send every key touched to all the friends available.
