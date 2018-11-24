@@ -1,6 +1,6 @@
 # ttss
-Twinkle, Twinkle Smartphone Star
-Team: Antonio D. de Carvalho J. and Zachary Boulanger
+## Twinkle, Twinkle Smartphone Star
+### Team: Antonio D. de Carvalho J. and Zachary Boulanger
 
 
 This performance was conceived in a partnership with Zachary Boulanger and the concept is related to playing with the idea of expectations. 
