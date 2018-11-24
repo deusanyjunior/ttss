@@ -1,5 +1,9 @@
 # ttss
-Twinkle, Twinkle Smartphone Star
+--------------------------------------
+-- Twinkle, Twinkle Smartphone Star --
+-- Team: Antonio D. de Carvalho J.  --
+--       Zachary Boulanger          --
+--------------------------------------
 
 This performance was conceived in a partnership with Zachary Boulanger and the concept is related to playing with the idea of expectations. 
 The master performer would be a composer using the master application with an 8-key keyboard that was configured to send every key touched to all the friends available.
@@ -16,7 +20,6 @@ The audience will expect some control from composer hands, but he is using a hea
 In the middle the composer will take out the headphone, he will try to control the performers again, and stop sending notes to the end of the piece.
 The sound experience comes from the idea that the audience will expect some melodies based on the notes that are falling down, but it doesn't depend only on the composer's composition, because the composer is not a player.
 
-
-The premiere happened on April 18, 2015 in Stamps Auditorium at the Walgreen Drama Center on the U-M North Campus.
-More information about the event can be found at [http://www.eecs.umich.edu/eecs/about/articles/2015/w15-mobile-phone-ensemble-performance.html].
-Videos from the event are available at [https://www.youtube.com/watch?v=8RWgXoM2BCA].
+The premiere was held on April 18, 2015 in Stamps Auditorium at the Walgreen Drama Center on the U-M North Campus.
+More information about the event can be found at [this page](http://www.eecs.umich.edu/eecs/about/articles/2015/w15-mobile-phone-ensemble-performance.html).
+Videos from the event are available at [this playlist](https://www.youtube.com/playlist?list=PLcDYUKIkEOpZ9qMRzlfEg2ziEeJxBG4dF).
